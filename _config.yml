@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: Lanxuan Yang
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/photo.jpg
   picAlt: "catbook"
   job: Cornell MEng Student Majored in ORIE
   aboutme: true # comment this out if you don't need the 'about' page.
