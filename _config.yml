@@ -23,7 +23,9 @@ user:
   name: Lanxuan Yang
   pic: /assets/img/photo.jpg
   picAlt: "catbook"
-  job: Cornell MEng ORIE 22' Data Analytics Concentration
+  job: Cornell MEng ORIE 22' 
+  <br>
+  Data Analytics Concentration
   aboutme: true # comment this out if you don't need the 'about' page.
   
 # links:
