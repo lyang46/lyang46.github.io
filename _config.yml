@@ -26,22 +26,22 @@ user:
   job: Cornell MEng ORIE 22' Data Analytics Concentration
   aboutme: true # comment this out if you don't need the 'about' page.
   
-links:
-  - linkedin:
-      name: LinkedIn
-      show: true
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
-      icon: fab fa-linkedin
-  - github:
-      name: GitHub
-      show: true
-      href: https://github.com/tsjensen
-      icon: fab fa-github
-   - email:
-      name: Email
-      show: true
-      href: mailto:jonathan.doe@host.domain
-      icon: fas fa-envelope
+# links:
+#   - linkedin:
+#       name: LinkedIn
+#       show: true
+#       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+#       icon: fab fa-linkedin
+#   - github:
+#       name: GitHub
+#       show: true
+#       href: https://github.com/tsjensen
+#       icon: fab fa-github
+#    - email:
+#       name: Email
+#       show: true
+#       href: mailto:jonathan.doe@host.domain
+#       icon: fas fa-envelope
 
 exclude:
   - README.md
